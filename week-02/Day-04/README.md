@@ -5,7 +5,7 @@ Conditional Statements & Input Validation
 > Learn how Python makes decisions, evaluates conditions, and validates user input.
 
 ## Lab Week 2 -Day 4
-- [LAB](week-02/Lab-Day|4)
+- [LAB](week-02/Week2|Day-4)
 
 ---
 
