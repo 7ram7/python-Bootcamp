@@ -4,6 +4,9 @@ Conditional Statements & Input Validation
 
 > Learn how Python makes decisions, evaluates conditions, and validates user input.
 
+##Lab Week 2 -Day 4
+- [LAB](Lab-Day|4/)
+
 ---
 
 
