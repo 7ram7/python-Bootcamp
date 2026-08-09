@@ -1,6 +1,6 @@
 
 
-# 🔄 Python Loops — Study Notes
+# 🔄 Python Loops 
 
 Loops allow us to repeat code without writing the same instructions multiple times.
 
