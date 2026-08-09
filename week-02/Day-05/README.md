@@ -622,35 +622,6 @@ while not value.isdigit():
 
 ---
 
-### 14. Practice Checklist
-
-Before considering loops mastered, make sure you can:
-
-* [ ] Write a basic `for` loop.
-* [ ] Write a basic `while` loop.
-* [ ] Explain the difference between `for` and `while`.
-* [ ] Use `range()`.
-* [ ] Explain why `range(1, 6)` ends at `5`.
-* [ ] Use `start`, `stop`, and `step`.
-* [ ] Count backwards with a negative step.
-* [ ] Loop through a string.
-* [ ] Loop through a list.
-* [ ] Use `if` inside a loop.
-* [ ] Check even/odd numbers using `%`.
-* [ ] Create and use a counter.
-* [ ] Create and use an accumulator.
-* [ ] Count items matching a condition.
-* [ ] Calculate a total inside a loop.
-* [ ] Validate input using `while`.
-* [ ] Understand `.isdigit()`.
-* [ ] Understand `not`.
-* [ ] Convert validated input using `int()`.
-* [ ] Identify and prevent infinite loops.
-* [ ] Understand why indentation matters.
-* [ ] Combine loops with `if` / `else`.
-
----
-
 ### 15. Core Mental Model
 
 When you see a loop problem, ask yourself:
