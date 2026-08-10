@@ -1,5 +1,6 @@
 
-# 🐍 Python Functions — Study Notes
+# 🐍 Python Functions 
+- [LAB1](LAB_1|Week 3/)
 
 > **Functions** allow you to organize code into reusable blocks that perform specific tasks.
 >
