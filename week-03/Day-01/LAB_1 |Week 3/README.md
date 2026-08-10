@@ -1,4 +1,4 @@
-'''python
+```python
 # Week 3 DAY-1
 
 
@@ -36,7 +36,7 @@ for row in range(1,4):
         print(f" {row} X {colum},={row*colum}")
 
 
-# LAB 1 WWEK 3
+# LAB 1 WEEK 3
 def greet():
     print("welcome to python")
 
@@ -91,4 +91,6 @@ print(getVAT(154.,0.05))
 print(getVAT.__doc__)
 help(getVAT)
 
-'''
+```
+
+
