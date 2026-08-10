@@ -759,27 +759,7 @@ They organize these concepts; they do not replace them.
 
 ---
 
-# 🎯 Exam Checklist
 
-Before an exam, make sure you can answer these:
-
-- [ ] What is a function?
-- [ ] How do you define a function?
-- [ ] How do you call a function?
-- [ ] What is the difference between a parameter and an argument?
-- [ ] How do positional arguments work?
-- [ ] What is a default parameter?
-- [ ] What happens when a required argument is missing?
-- [ ] What is the difference between `print()` and `return`?
-- [ ] Why is `return` useful?
-- [ ] What happens after Python executes `return`?
-- [ ] Can a function contain `if` statements?
-- [ ] Can a function contain loops?
-- [ ] Why must the function definition be reached before its call?
-- [ ] What is meant by a function's "contract"?
-- [ ] Can you combine functions with variables, conditions, loops, and calculations?
-
----
 
 # ⭐ The Most Important Mental Model
 
