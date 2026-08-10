@@ -1,6 +1,8 @@
 
 # 🐍 Python — Scope, Imports & Modules
 
+- [LAB 2](LAB2Week_3/)
+- [Project 2](Project2_Week3)
 
 
 ---
