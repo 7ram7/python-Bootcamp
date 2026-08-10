@@ -1,6 +1,6 @@
 
 # 🐍 Python Functions 
-- [LAB1](LAB_1|Week 3/)
+- [LAB1](LAB_1|Week_3/)
 
 > **Functions** allow you to organize code into reusable blocks that perform specific tasks.
 >
