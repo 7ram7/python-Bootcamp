@@ -1,10 +1,11 @@
 
 
 ## Comprehensions, Conditional Expressions, Filtering & Transformation
-- [LAB 4](lab4_week4/)
-- [Project 4](project4_week4/)
 
 > **Exam-focused notes:** This chapter summarizes the concepts covered in today's lectures and labs. The labs are represented through the underlying programming concepts rather than copied as separate exercises.
+> 
+- [LAB 4](lab4_week4/)
+- [Project 4](project4_week4/)
 
 ---
 
