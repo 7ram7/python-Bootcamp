@@ -2,6 +2,8 @@
 
 
 ## 1. Python Data Structures
+- [LAB 3](lab3_week3/)
+- [project 3](project3_week3/)
 
 Python provides several built-in data structures for storing collections of values:
 
