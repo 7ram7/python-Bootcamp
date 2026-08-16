@@ -7,6 +7,7 @@
 - [week 1](week-01/)
 - [week 2](week-02/)
 - [week 3](week-03/)
+- [week 4](week-04/)
 
 
 
